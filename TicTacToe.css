@@ -1,0 +1,29 @@
+/* table: 3 rows, 3 td's, 100px height & width;
+r/l border in mid column; top/bottom mid row */
+
+h1 {
+    padding: 20px;
+    margin: auto;
+    text-align: center;
+}
+
+table {
+    margin: auto;
+    align-content: center;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+}
+
+td:nth-child(2) {
+    border-right: 2px solid pink;
+    border-left: 2px solid pink;
+}
+
+
+.star {
+    border-top: 2px solid pink;
+    border-bottom: 2px solid pink;
+}

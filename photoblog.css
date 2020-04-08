@@ -1,0 +1,25 @@
+img {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+}
+
+h1 {
+    font-family: 'Kaushan Script', cursive;
+    font-size: 50px;
+    margin: 30px 0 auto;
+    text-align: center;
+    font-weight: lighter;
+    border-bottom: 2px solid pink; 
+    padding-bottom: 20px;
+}
+
+p {
+    font-family: 'Merienda', cursive;
+    font-size: 15px;
+    margin: 20px;
+    text-align: right;
+}
+
+/* font-family; margin -left/right; font-size; font-weight; text-transform */
+
